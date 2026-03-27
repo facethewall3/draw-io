@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MiPD7PmkD07yUfoJkkN1-3" parent="1" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=#D4E1F5;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=9;swimlaneLine=0;dashed=1;collapsible=1;" value="Mindmap" vertex="1">
-          <mxGeometry height="441" width="756" x="950" y="430" as="geometry" />
+          <mxGeometry height="441" width="796" x="950" y="430" as="geometry" />
         </mxCell>
         <mxCell id="MiPD7PmkD07yUfoJkkN1-4" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;MIND&lt;br&gt;MAPPING&lt;/font&gt;" vertex="1">
           <mxGeometry height="53" width="108" x="26" y="154" as="geometry" />
@@ -77,12 +77,15 @@
           <mxGeometry height="53" width="108" x="500" y="33" as="geometry" />
         </mxCell>
         <mxCell id="MiPD7PmkD07yUfoJkkN1-142" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;理化检验&lt;/font&gt;" vertex="1">
-          <mxGeometry height="53" width="108" x="648" y="33" as="geometry" />
+          <mxGeometry height="53" width="92" x="648" y="33" as="geometry" />
         </mxCell>
         <mxCell id="MiPD7PmkD07yUfoJkkN1-140" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MiPD7PmkD07yUfoJkkN1-142" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1378" y="477" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3lSltvm1t5WIIFNh1ZO8-2" edge="1" parent="1" source="MiPD7PmkD07yUfoJkkN1-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="3lSltvm1t5WIIFNh1ZO8-1" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MiPD7PmkD07yUfoJkkN1-135" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;一般验收（数量、外观、资料）&lt;/font&gt;" vertex="1">
           <mxGeometry height="53" width="108" x="1450" y="397" as="geometry" />
@@ -96,6 +99,15 @@
           <mxGeometry relative="1" x="0.1294" y="-3" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3lSltvm1t5WIIFNh1ZO8-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;入库&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="90" x="1610" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="3lSltvm1t5WIIFNh1ZO8-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;入库&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="90" x="1720" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3lSltvm1t5WIIFNh1ZO8-4" edge="1" parent="1" source="MiPD7PmkD07yUfoJkkN1-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" target="3lSltvm1t5WIIFNh1ZO8-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
