@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Blank" id="0TzcXPiCLVAXe8P0RTTL">
+    <mxGraphModel dx="-172" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-3" parent="1" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=#D4E1F5;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=9;swimlaneLine=0;dashed=1;collapsible=1;" value="Mindmap" vertex="1">
+          <mxGeometry height="441" width="756" x="950" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-4" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;MIND&lt;br&gt;MAPPING&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="26" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-83" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="MiPD7PmkD07yUfoJkkN1-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-84" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;62类物资&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="186" y="101" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-118" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="MiPD7PmkD07yUfoJkkN1-119" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-119" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;仓库&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="202" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-120" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="MiPD7PmkD07yUfoJkkN1-121" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="238" y="281" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-121" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;集中仓储中心&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="370" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-122" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MiPD7PmkD07yUfoJkkN1-123" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="250" />
+              <mxPoint x="370" y="250" />
+              <mxPoint x="370" y="247" />
+            </Array>
+            <mxPoint x="244" y="271" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-123" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;物资供应站&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="384" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-124" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MiPD7PmkD07yUfoJkkN1-125" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="256" y="320" />
+              <mxPoint x="370" y="320" />
+            </Array>
+            <mxPoint x="204" y="241" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-125" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;直达生产现场&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="384" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-126" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MiPD7PmkD07yUfoJkkN1-127" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164" y="251" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-127" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;验收流程&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="320" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-137" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MiPD7PmkD07yUfoJkkN1-138" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="531" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-139" connectable="0" parent="MiPD7PmkD07yUfoJkkN1-137" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="必检物资" vertex="1">
+          <mxGeometry relative="1" x="0.0078" y="-7" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-138" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;一般验收（数量、外观、资料）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="500" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-142" parent="MiPD7PmkD07yUfoJkkN1-3" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;理化检验&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="648" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-140" edge="1" parent="MiPD7PmkD07yUfoJkkN1-3" source="MiPD7PmkD07yUfoJkkN1-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MiPD7PmkD07yUfoJkkN1-142" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1378" y="477" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-135" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;一般验收（数量、外观、资料）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53" width="108" x="1450" y="397" as="geometry" />
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-134" edge="1" parent="1" source="MiPD7PmkD07yUfoJkkN1-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MiPD7PmkD07yUfoJkkN1-135" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="601" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiPD7PmkD07yUfoJkkN1-136" connectable="0" parent="MiPD7PmkD07yUfoJkkN1-134" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="一般物资" vertex="1">
+          <mxGeometry relative="1" x="0.1294" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
